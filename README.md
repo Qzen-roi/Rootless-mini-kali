@@ -1,1 +1,0 @@
-# Rootless-mini-kali
