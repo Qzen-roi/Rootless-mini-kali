@@ -334,7 +334,7 @@ function fix_uid() {
 function print_banner() {
     clear
     
-    printf "${red}===================>By Ranjit Rai<================${reset}\n"
+    printf "${red}=================>By Ranjit Rai<================${reset}\n"
     
     printf "${blue}##################################################\n"
     printf "${blue}##                                              ##\n"
