@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
 
-VERSION=2020011601
-BASE_URL=https://kali.download/nethunter-images/kali-2022.4/rootfs/
+VERSION=2023011601
+BASE_URL=https://kali.download/nethunter-images/kali-2023.1/rootfs/
 USERNAME=kali
 
 function unsupported_arch() {
